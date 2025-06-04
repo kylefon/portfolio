@@ -1,0 +1,35 @@
+[
+    {
+        "title": "Intern QA Submission Plantform",
+        "techStack": [
+            "Next.js",
+            "Typescript",
+            "Supabase"
+        ],
+        "description": "Our intern project as part of the QA Team in Ollopa Corporation",
+        "githubLink": "https://github.com/OllopaQAAdmin/intern-qa-submission-platform",
+        "image": "images/resonance.png"
+    },
+    {
+        "title": "resonance",
+        "techStack": [
+            "React.js", 
+            "Pocketbase", 
+            "Spotify API"
+        ],
+        "description": "An album review app inspired by Letterboxd",
+        "githubLink": "https://github.com/kylefon/resonance",
+        "image": "images/resonance.png"    
+    },
+    {
+        "title": "IMDB redesign",
+        "techStack": [
+            "React.js", 
+            "Tailwind CSS", 
+            "TMDB API"
+        ],
+        "description": "A redesign of the IMDB homepage by Juxtoppose",
+        "githubLink": "https://github.com/kylefon/imdb-redesign",
+        "image": "images/imdb-redesign.png"
+    }
+]
