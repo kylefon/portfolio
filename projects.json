@@ -34,7 +34,7 @@
         "description": "An album review app inspired by Letterboxd",
         "links": {
             "GitHub": "https://github.com/kylefon/resonance",
-            "Live Demo": "resonance-album.vercel.app"
+            "Live Demo": "https://resonance-album.vercel.app"
             },
         "image": "images/resonance.png"    
     },
@@ -48,7 +48,7 @@
         "description": "A redesign of the IMDB homepage by Juxtoppose",
         "links": {
             "GitHub": "https://github.com/kylefon/imdb-redesign",
-            "Live Demo": "imdb-redesign.vercel.app"
+            "Live Demo": "https://imdb-redesign.vercel.app"
             },
         "image": "images/imdb-redesign.png"
     }
