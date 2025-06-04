@@ -1,5 +1,17 @@
 [
     {
+        "title": "Philippine License Plate Classification Using K-Nearest Neighbors",
+        "techStack": [
+            "Raspberry Pi",
+            "Python",
+            "YOLOv7",
+            "KNN"
+        ],
+        "description": "Our thesis that classifies license plates in real-time",
+        "links": {},
+        "image": "images/resonance.png"
+    },
+    {
         "title": "Intern QA Submission Plantform",
         "techStack": [
             "Next.js",
@@ -7,7 +19,9 @@
             "Supabase"
         ],
         "description": "Our intern project as part of the QA Team in Ollopa Corporation",
-        "githubLink": "https://github.com/OllopaQAAdmin/intern-qa-submission-platform",
+        "links": {
+            "GitHub": "https://github.com/OllopaQAAdmin/intern-qa-submission-platform"
+            },
         "image": "images/resonance.png"
     },
     {
@@ -18,7 +32,10 @@
             "Spotify API"
         ],
         "description": "An album review app inspired by Letterboxd",
-        "githubLink": "https://github.com/kylefon/resonance",
+        "links": {
+            "GitHub": "https://github.com/kylefon/resonance",
+            "Live Demo": "resonance-album.vercel.app"
+            },
         "image": "images/resonance.png"    
     },
     {
@@ -29,7 +46,10 @@
             "TMDB API"
         ],
         "description": "A redesign of the IMDB homepage by Juxtoppose",
-        "githubLink": "https://github.com/kylefon/imdb-redesign",
+        "links": {
+            "GitHub": "https://github.com/kylefon/imdb-redesign",
+            "Live Demo": "imdb-redesign.vercel.app"
+            },
         "image": "images/imdb-redesign.png"
     }
 ]

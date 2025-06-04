@@ -14,19 +14,21 @@ fetch('projects.json')
             projectElement.innerHTML = `
                 <div class="project-info">
                     <div class="info">
-                        <div>
+                        <div class="info-title">
                             <h2>${project.title}</h2>
                             <div class="tech-stack">
                                 ${project.techStack.map(tech => `<span class="tech">${tech}</span>`).join('')}
                             </div>
                         </div>
-                        <div>
-                        <h3>${project.description}</h3>
-                            <a href=${project.githubLink} target="_blank">
-                                <div class="tech">
-                                    Github
-                                </div>
-                            </a>
+                        <div class="info-desc">
+                            <h3>${project.description}</h3>
+                            <div class="links">
+                                ${Object.entries(project.links).map(([key, value]) => `
+                                    <a href=${value} target="_blank">
+                                        <span class="tech">${key}</span>
+                                    </a>
+                                `).join('')}
+                            </div>
                         </div>
                     </div>
                     <div class="active-acc-button">
