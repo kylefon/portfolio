@@ -359,6 +359,10 @@ form {
     background-color: "black";
 }
 
+.work-info {
+    margin: 40px 48px;
+}
+
 .acc-button {
     display: none;
 }
