@@ -7,9 +7,9 @@
             "YOLOv7",
             "KNN"
         ],
-        "description": "Our thesis that classifies license plates in real-time",
+        "description": "Our thesis that classifies license plates in real-time using YOLOv7, KNN, and Tesseract OCR",
         "links": {},
-        "image": "images/resonance.png"
+        "image": "images/thesis.png"
     },
     {
         "title": "Intern QA Submission Plantform",
